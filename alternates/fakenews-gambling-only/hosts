@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 July 2024 23:46:00 (UTC)
+# Date: 11 August 2024 17:52:05 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,525
+# Number of unique domains: 10,584
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 21 Jul 2024 22:13 UTC+7
-# Version: 2407212213
-# Blocked: 5,694 domains
+# Last modified: 10 Aug 2024 19:33 UTC+7
+# Version: 2408101933
+# Blocked: 5,753 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2724,12 +2724,17 @@
 0.0.0.0 ads06.win888b.com
 0.0.0.0 ads08.win888b.com
 0.0.0.0 ads09.win888b.com
+0.0.0.0 ads1.thangto.one
 0.0.0.0 ads11.win888b.com
 0.0.0.0 ads13.win888b.com
 0.0.0.0 ads14.win888b.com
 0.0.0.0 ads16.win888b.com
+0.0.0.0 ads2.thangto.one
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads3.thangto.one
+0.0.0.0 ads4.thangto.one
 0.0.0.0 ads5.dangkybum.club
+0.0.0.0 ads5.thangto.one
 0.0.0.0 ae2888.com
 0.0.0.0 ae3888.top
 0.0.0.0 ae58888.com
@@ -2840,6 +2845,7 @@
 0.0.0.0 api.ae88855.com
 0.0.0.0 api.ae88857.com
 0.0.0.0 api.ae88859.com
+0.0.0.0 api.bachhoa88.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.dabet.club
 0.0.0.0 api.f8bet0.com
@@ -2921,6 +2927,7 @@
 0.0.0.0 app611.net
 0.0.0.0 appbk8.com
 0.0.0.0 appi9bet.com
+0.0.0.0 appstore.nosap.win
 0.0.0.0 apptk.app
 0.0.0.0 asiatop88.com
 0.0.0.0 asiavwin.com
@@ -2936,6 +2943,7 @@
 0.0.0.0 b1388.com
 0.0.0.0 b29.bet
 0.0.0.0 b29.cafe
+0.0.0.0 b29.pub
 0.0.0.0 b29qc.win
 0.0.0.0 b52.game
 0.0.0.0 b52.me
@@ -2948,19 +2956,23 @@
 0.0.0.0 b52m.club
 0.0.0.0 b52vn.info
 0.0.0.0 b52vn.org
+0.0.0.0 b69.bar
 0.0.0.0 b69.cafe
 0.0.0.0 b69.city
 0.0.0.0 b77.fun
 0.0.0.0 b77.life
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
+0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
 0.0.0.0 banca-red88.top
+0.0.0.0 banca.cc
 0.0.0.0 banca.red88.us
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
 0.0.0.0 bancakings.com
 0.0.0.0 bancalucky88.com
+0.0.0.0 bancarongdoi.com
 0.0.0.0 baowin.net
 0.0.0.0 bay789.club
 0.0.0.0 bay789.io
@@ -3023,6 +3035,7 @@
 0.0.0.0 bigk8th888.com
 0.0.0.0 bj288.com
 0.0.0.0 bj39.com
+0.0.0.0 bj88.games
 0.0.0.0 bj88vietnam.com
 0.0.0.0 bj88vn.com
 0.0.0.0 bj988.com
@@ -3181,6 +3194,7 @@
 0.0.0.0 choi.gamingsoc88.org
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choi77.com
+0.0.0.0 choi789.link
 0.0.0.0 choi99.com
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
@@ -3317,6 +3331,7 @@
 0.0.0.0 dagachoi.tv
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
+0.0.0.0 dagaok88.net
 0.0.0.0 dagatructiep.casino
 0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
@@ -3333,6 +3348,7 @@
 0.0.0.0 dangky.dailynet88.com
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.thethaofb88.com
+0.0.0.0 dangky388bet.xyz
 0.0.0.0 dangky789.link
 0.0.0.0 dangky789.sbs
 0.0.0.0 dangkybayvip.com
@@ -3363,6 +3379,7 @@
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
+0.0.0.0 deca.bet
 0.0.0.0 deca88.com
 0.0.0.0 dfbertuah.com
 0.0.0.0 dfchoingay.com
@@ -3385,6 +3402,7 @@
 0.0.0.0 dk.thethaovua.co
 0.0.0.0 dk.topcc88.me
 0.0.0.0 dk.vaorikvip.net
+0.0.0.0 dk.zoplay.top
 0.0.0.0 dk8.games
 0.0.0.0 dk8.link
 0.0.0.0 dk801.com
@@ -3743,6 +3761,7 @@
 0.0.0.0 go88p.com
 0.0.0.0 go88r.pro
 0.0.0.0 go88s.tv
+0.0.0.0 go88tv.win
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
 0.0.0.0 go88x.club
@@ -5357,6 +5376,7 @@
 0.0.0.0 kingman.fun
 0.0.0.0 kingvip99.com
 0.0.0.0 kkfffddd.com
+0.0.0.0 km.choi789.link
 0.0.0.0 km.gamingsoc88.one
 0.0.0.0 km.playmanclub.vin
 0.0.0.0 km.thethaob52.org
@@ -5364,6 +5384,8 @@
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
 0.0.0.0 kmisa68.com
+0.0.0.0 ko66vip.casino
+0.0.0.0 ko66vip.club
 0.0.0.0 kt88.pro
 0.0.0.0 ktokto.mobi
 0.0.0.0 ktoviet.com
@@ -5465,6 +5487,7 @@
 0.0.0.0 lode555.com
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
+0.0.0.0 lode88j.cc
 0.0.0.0 lodegoc.net
 0.0.0.0 lodevip.us
 0.0.0.0 lodevn789.net
@@ -5483,6 +5506,7 @@
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
+0.0.0.0 lp.playrik79.site
 0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
 0.0.0.0 lp.sun6.win
@@ -5490,6 +5514,7 @@
 0.0.0.0 lp.taiv8.top
 0.0.0.0 lp.vip79.com
 0.0.0.0 lp.vip79.uk
+0.0.0.0 lp.vip79.vip
 0.0.0.0 lp.vip79gamebai.vip
 0.0.0.0 lp.vuiuk88.club
 0.0.0.0 lp.zo.club
@@ -5857,6 +5882,7 @@
 0.0.0.0 nohu35.com
 0.0.0.0 nohuk8.fun
 0.0.0.0 nohuk8.info
+0.0.0.0 nosap.win
 0.0.0.0 nowbetvn.com
 0.0.0.0 nslokups.com
 0.0.0.0 nt7cd.com
@@ -5864,6 +5890,7 @@
 0.0.0.0 nxb8.com
 0.0.0.0 oi8jg.com
 0.0.0.0 ojr6n.com
+0.0.0.0 ok388.tv
 0.0.0.0 okcado.com
 0.0.0.0 okcado.org
 0.0.0.0 okvip.life
@@ -5963,13 +5990,16 @@
 0.0.0.0 play.loc789.club
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
+0.0.0.0 play.nosap.win
 0.0.0.0 play.playiwin.biz
 0.0.0.0 play.rik88.life
 0.0.0.0 play.rikgame.live
+0.0.0.0 play.rikvip.services
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.son.club
 0.0.0.0 play.son5.club
+0.0.0.0 play.sum27.club
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
@@ -5979,6 +6009,7 @@
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.win
 0.0.0.0 play.vip79.com
+0.0.0.0 play.vip79.vip
 0.0.0.0 play.vuigiaitri.online
 0.0.0.0 play.win79.vip
 0.0.0.0 play.win79d.com
@@ -6012,6 +6043,7 @@
 0.0.0.0 playmanclub.vin
 0.0.0.0 playmay88.top
 0.0.0.0 playmay88.vin
+0.0.0.0 playrik79.site
 0.0.0.0 playuk88.win
 0.0.0.0 playv8.com
 0.0.0.0 playv8.vip
@@ -6070,6 +6102,7 @@
 0.0.0.0 qc.top88.uk
 0.0.0.0 qc.top88.us
 0.0.0.0 qc.top88.vn
+0.0.0.0 qc.vaobet.club
 0.0.0.0 qc.vic.win
 0.0.0.0 qc.x8.club
 0.0.0.0 qc.x8.games
@@ -6113,6 +6146,7 @@
 0.0.0.0 red88.vin
 0.0.0.0 red88.vip
 0.0.0.0 red88e.com
+0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet
 0.0.0.0 rewards.w88bkk.com
@@ -6133,6 +6167,8 @@
 0.0.0.0 rikk.us
 0.0.0.0 rikkk.net
 0.0.0.0 rikvip.fun
+0.0.0.0 rikvip.property
+0.0.0.0 rikvip.services
 0.0.0.0 rikvip.tv
 0.0.0.0 rikvip.uk
 0.0.0.0 rikvip.us
@@ -6180,6 +6216,7 @@
 0.0.0.0 s999g.com
 0.0.0.0 s999h.com
 0.0.0.0 saigonbet.net
+0.0.0.0 sam86.zone
 0.0.0.0 sam86vip.org
 0.0.0.0 sam86vip.pro
 0.0.0.0 sam86vip.tv
@@ -6187,6 +6224,8 @@
 0.0.0.0 samvip.bet
 0.0.0.0 sanos.fun
 0.0.0.0 sanvip.club
+0.0.0.0 saowin.ink
+0.0.0.0 saowin.plus
 0.0.0.0 sasa889.com
 0.0.0.0 sbc2888.live
 0.0.0.0 sbc31.com
@@ -6228,6 +6267,8 @@
 0.0.0.0 sin88s.com
 0.0.0.0 sin88vao.com
 0.0.0.0 sinbet.vip
+0.0.0.0 site.ko66vip.casino
+0.0.0.0 site.ko66vip.club
 0.0.0.0 sky88.bet
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
@@ -6315,8 +6356,11 @@
 0.0.0.0 su789.win
 0.0.0.0 sukien.fcb88.com
 0.0.0.0 sukiensh.online
+0.0.0.0 sum.club
+0.0.0.0 sum27.club
 0.0.0.0 sum4.club
 0.0.0.0 sum5.club
+0.0.0.0 sumclub1.xyz
 0.0.0.0 sun.to
 0.0.0.0 sun.win
 0.0.0.0 sun13.win
@@ -6324,7 +6368,9 @@
 0.0.0.0 sun15.win
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
+0.0.0.0 sun52.cloud
 0.0.0.0 sun52.fun
+0.0.0.0 sun52.link
 0.0.0.0 sun52.live
 0.0.0.0 sun52.site
 0.0.0.0 sun52.tv
@@ -6397,7 +6443,9 @@
 0.0.0.0 ta88.org
 0.0.0.0 ta88.vip
 0.0.0.0 tai-sumvip.city
+0.0.0.0 tai.b29.pub
 0.0.0.0 tai.b52vn.fun
+0.0.0.0 tai.b69.bar
 0.0.0.0 tai.boc8.fun
 0.0.0.0 tai.do99.site
 0.0.0.0 tai.fa88.win
@@ -6421,6 +6469,7 @@
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.rikvip.vip
 0.0.0.0 tai.rikvip.win
+0.0.0.0 tai.sam86.zone
 0.0.0.0 tai.samvip.bet
 0.0.0.0 tai.son.club
 0.0.0.0 tai.taisum2.com
@@ -6437,8 +6486,10 @@
 0.0.0.0 tai9606.com
 0.0.0.0 tai99vin.net
 0.0.0.0 taib29.cafe
+0.0.0.0 taib52.bet
 0.0.0.0 taib52.club
 0.0.0.0 taib52.com
+0.0.0.0 taib52.dev
 0.0.0.0 taib52.vin
 0.0.0.0 taib69.cafe
 0.0.0.0 taiboc.fun
@@ -6481,7 +6532,9 @@
 0.0.0.0 taimacao99.club
 0.0.0.0 taimacao99.shop
 0.0.0.0 taimacau.club
+0.0.0.0 taimanclub.app
 0.0.0.0 taimanclub.com
+0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
 0.0.0.0 taiqqlive.pro
@@ -6502,6 +6555,7 @@
 0.0.0.0 taisum1.club
 0.0.0.0 taisum2.com
 0.0.0.0 taisumvip6.city
+0.0.0.0 taisun52.fun
 0.0.0.0 taisun52.live
 0.0.0.0 taisunwin.live
 0.0.0.0 taitx1.club
@@ -6559,6 +6613,7 @@
 0.0.0.0 thailanthwin.net
 0.0.0.0 thangiwin.org
 0.0.0.0 thangtien188bet.com
+0.0.0.0 thangto.one
 0.0.0.0 thantai68.com
 0.0.0.0 thao88.com
 0.0.0.0 thao888.com
@@ -6731,6 +6786,7 @@
 0.0.0.0 vao789club.win
 0.0.0.0 vao78win.xyz
 0.0.0.0 vaob52.click
+0.0.0.0 vaobet.club
 0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
@@ -6765,6 +6821,7 @@
 0.0.0.0 vietbet.eu
 0.0.0.0 vietbet89.com
 0.0.0.0 vietlott66.com
+0.0.0.0 vietnam35.com
 0.0.0.0 vietvwin.com
 0.0.0.0 vig.vietbet.eu
 0.0.0.0 vin168.com
@@ -6787,6 +6844,7 @@
 0.0.0.0 vip130130.com
 0.0.0.0 vip79.com
 0.0.0.0 vip79.uk
+0.0.0.0 vip79.vip
 0.0.0.0 vip79.win
 0.0.0.0 vip79gamebai.vip
 0.0.0.0 vipbet001.org
@@ -7915,6 +7973,7 @@
 0.0.0.0 zo2.win
 0.0.0.0 zo88.org
 0.0.0.0 zom8.club
+0.0.0.0 zoplay.top
 0.0.0.0 zowinvn.vip
 0.0.0.0 ztij6.com
 0.0.0.0 zvhlv.com
