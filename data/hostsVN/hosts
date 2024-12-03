@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Nov 2024 11:43 UTC+7
-# Version: 2411241143
-# Blocked: 1,903 domains
+# Last modified: 02 Dec 2024 15:05 UTC+7
+# Version: 2412021505
+# Blocked: 1,905 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1771,6 +1771,7 @@
 0.0.0.0 v9banners.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
+0.0.0.0 vietpub.com
 0.0.0.0 vipads.live
 0.0.0.0 vlxx.host
 0.0.0.0 vnadssb.com
@@ -1897,6 +1898,7 @@
 0.0.0.0 log-en.nhandan.vn
 0.0.0.0 log-en.sggp.org.vn
 0.0.0.0 log-video.baotintuc.vn
+0.0.0.0 log.1vn.app
 0.0.0.0 log.247post.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baobackan.com.vn
