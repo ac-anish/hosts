@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2025 10:39 UTC+7
-# Version: 2503311039
-# Blocked: 1.759 domains
+# Last modified: 19 May 2025 23:29 UTC+7
+# Version: 2505192329
+# Blocked: 1.762 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1415,6 +1415,9 @@
 0.0.0.0 delivery.vda.viettel.vn
 0.0.0.0 log.vda.viettel.vn
 0.0.0.0 vda.viettel.vn
+#[tv360.vn]
+0.0.0.0 log.tv360.vn
+0.0.0.0 pubads-wiinvent.tv360.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1563,6 +1566,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delivery.doisongphapluat.com.vn
+0.0.0.0 delivery.lsvn.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.upremium.asia
 0.0.0.0 demopage.me
@@ -1795,7 +1799,6 @@
 0.0.0.0 log.tinnhac.com
 0.0.0.0 log.tinnhanhchungkhoan.vn
 0.0.0.0 log.tinxe.vn
-0.0.0.0 log.tv360.vn
 0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vneconomy.vn
@@ -1907,6 +1910,7 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.gapone.vn
 0.0.0.0 tracking.hapiwork.vn
+0.0.0.0 tracking.lsvn.vn
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
 0.0.0.0 tracking.saostar.vn
