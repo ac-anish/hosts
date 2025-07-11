@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jun 2025 22:19 UTC+7
-# Version: 2506052219
-# Blocked: 1.765 domains
+# Last modified: 02 Jul 2025 15:17 UTC+7
+# Version: 2507021517
+# Blocked: 1.773 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1264,6 +1264,12 @@
 0.0.0.0 logfr.vietnamplus.vn
 0.0.0.0 logru.vietnamplus.vn
 0.0.0.0 logzh.vietnamplus.vn
+0.0.0.0 dantocmiennui-log.baotintuc.vn
+0.0.0.0 en-log.vietnamplus.vn
+0.0.0.0 es-log.vietnamplus.vn
+0.0.0.0 fr-log.vietnamplus.vn
+0.0.0.0 ru-log.vietnamplus.vn
+0.0.0.0 zh-log.vietnamplus.vn
 #[dantocmiennui.vn]
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 logkm.dantocmiennui.vn
@@ -1763,6 +1769,7 @@
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
 0.0.0.0 log.baogialai.com.vn
+0.0.0.0 log.baohatinh.vn
 0.0.0.0 log.baolaocai.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baonghean.vn
@@ -1787,6 +1794,7 @@
 0.0.0.0 log.lichviet.org
 0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nguoimuanha.vn
 0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.oto.com.vn
