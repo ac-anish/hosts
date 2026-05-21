@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 March 2026 19:12:36 (UTC)
+# Date: 20 May 2026 20:35:37 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, social
 # Number of unique domains: 5,437
@@ -1883,7 +1883,6 @@
 0.0.0.0 wastachnews.com
 0.0.0.0 waterfilters.news
 0.0.0.0 waterfordtoday.com
-0.0.0.0 waterfordwhispersnews.com
 0.0.0.0 waterlooreview.com
 0.0.0.0 waterlootimes.com
 0.0.0.0 waterwars.news
@@ -5498,6 +5497,9 @@
 
 # gay
 0.0.0.0 sniffies.com
+
+
+0.0.0.0 bsky.app
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in

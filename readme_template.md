@@ -131,6 +131,12 @@ Build the Docker container from the root of this repo like this:
 docker build --no-cache . -t stevenblack-hosts
 ```
 
+Or without cloning (directly from GitHub):
+
+```sh
+docker build --no-cache https://github.com/StevenBlack/hosts.git -t stevenblack-hosts
+```
+
 Then run your command as such:
 
 ```sh
@@ -386,8 +392,10 @@ To install hosts file on your machine add the following into your
 
 ### Nix Flake
 
-NixOS installations which are managed through _flakes_ can use the hosts file
-like this:
+NixOS installations which are managed through _flakes_ can directly use the `flake.nix` in this repository as an input.
+
+It contains a `nixosModule` that can be used to install the `hosts` file locally, as well as a package containing config files for the [Unbound](https://github.com/NLnetLabs/unbound) DNS server to be used as blocklists.
+
 
 ```nix
 {
@@ -403,7 +411,9 @@ like this:
     nixosConfigurations.my-hostname = {
       system = "<architecture>";
       modules = [
-        hosts.nixosModule {
+        # nixosModule to install hosts file locally:
+        hosts.nixosModule
+        {
           networking.stevenBlackHosts = {
             enable = true;
             # optionally:
@@ -413,6 +423,19 @@ like this:
             # blockPorn = true;
             # blockSocial = true;
           };
+        }
+
+        # configure unbound to use config as blocklist:
+        {
+          {
+            services.unbound = {
+              enable = true;
+              settings.server.include = [
+                "${hosts.packages.${system}.unbound}/hosts"
+                # alternates are also available, e.g. /fakenews, /fakenews-gambling etc.
+              ];
+            };
+          }
         }
       ];
     };
